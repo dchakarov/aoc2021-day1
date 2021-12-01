@@ -1,3 +1,2 @@
-# Advent of Code {template}
+# Advent of Code Day 1
 
-Xcode command line template to bootstrap your Advent of Code solutions
